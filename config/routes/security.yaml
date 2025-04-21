@@ -1,0 +1,5 @@
+firewalls:
+    main:
+        lazy: true
+        stateless: false
+        anonymous: true
